@@ -1,0 +1,17 @@
+D:\jurnalmodul8_103022300018\obj\Debug\net8.0\jurnalmodul8_103022300018.csproj.AssemblyReference.cache
+D:\jurnalmodul8_103022300018\obj\Debug\net8.0\jurnalmodul8_103022300018.GeneratedMSBuildEditorConfig.editorconfig
+D:\jurnalmodul8_103022300018\obj\Debug\net8.0\jurnalmodul8_103022300018.AssemblyInfoInputs.cache
+D:\jurnalmodul8_103022300018\obj\Debug\net8.0\jurnalmodul8_103022300018.AssemblyInfo.cs
+D:\jurnalmodul8_103022300018\obj\Debug\net8.0\jurnalmodul8_103022300018.csproj.CoreCompileInputs.cache
+D:\jurnalmodul8_103022300018\bin\Debug\net8.0\jurnalmodul8_103022300018.exe
+D:\jurnalmodul8_103022300018\bin\Debug\net8.0\jurnalmodul8_103022300018.deps.json
+D:\jurnalmodul8_103022300018\bin\Debug\net8.0\jurnalmodul8_103022300018.runtimeconfig.json
+D:\jurnalmodul8_103022300018\bin\Debug\net8.0\jurnalmodul8_103022300018.dll
+D:\jurnalmodul8_103022300018\bin\Debug\net8.0\jurnalmodul8_103022300018.pdb
+D:\jurnalmodul8_103022300018\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\jurnalmodul8_103022300018\obj\Debug\net8.0\jurnalmo.10703C7A.Up2Date
+D:\jurnalmodul8_103022300018\obj\Debug\net8.0\jurnalmodul8_103022300018.dll
+D:\jurnalmodul8_103022300018\obj\Debug\net8.0\refint\jurnalmodul8_103022300018.dll
+D:\jurnalmodul8_103022300018\obj\Debug\net8.0\jurnalmodul8_103022300018.pdb
+D:\jurnalmodul8_103022300018\obj\Debug\net8.0\jurnalmodul8_103022300018.genruntimeconfig.cache
+D:\jurnalmodul8_103022300018\obj\Debug\net8.0\ref\jurnalmodul8_103022300018.dll
